@@ -13,4 +13,7 @@
 9-Delete the directory my-first-directory that is in the /tmp directory.
 10- a script that changes the working directory to the previous one.
 11- Lists
+12- File type
+13- We are symbols, and inhabit symbols
+14- Copy HTML files
 
