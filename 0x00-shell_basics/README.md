@@ -11,4 +11,5 @@
 7-Move the file betty from /tmp/ to /tmp/my-first-directory.
 8-Delete the file betty.
 9-Delete the directory my-first-directory that is in the /tmp directory.
+10- a script that changes the working directory to the previous one.
 
