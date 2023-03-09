@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-#!/bin/bash
-chown --from=guillaume betty hello
-=======
-#!/bin/bash
-chown --from=guillaume betty hello
->>>>>>> bb2e0a7eca97202075be7f7fd4b9ab3b78c942fd
